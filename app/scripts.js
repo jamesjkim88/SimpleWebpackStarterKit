@@ -1,4 +1,5 @@
+console.log("Will this work?");
+
 require("./module1.js");
 require("./module2.js");
-
-console.log("is this working");
+require("./module3");
