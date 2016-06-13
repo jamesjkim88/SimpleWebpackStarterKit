@@ -1,0 +1,21 @@
+{
+  "name": "SimpleWebpackStarterKit",
+  "version": "1.0.0",
+  "description": "webpack starter kit",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesjkim88/SimpleWebpackStarterKit"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
