@@ -1,6 +1,6 @@
 # Simple Webpack Starter Kit
 
-## Pre-reqs:
+## Things you need:
 
   - Node.js
   - npm install webpack -g / --save-dev
