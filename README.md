@@ -1,4 +1,4 @@
-# Simple webpack starter kit
+# Simple Webpack Starter Kit
 
 ## Pre-reqs:
 
